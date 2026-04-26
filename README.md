@@ -17,3 +17,15 @@
 Hi, I am Tom and I enjoy programming and learning new skills. :smiley:
 
 I am currently working as a Junior Software Engineer. :computer:
+
+<h3 id="projects">
+    <picture>
+        <img
+            src="https://readme-typing-svg.demolab.com?font=Helvetica&duration=5000&pause=15000&weight=700&size=24&color=B90606&width=150&height=35&lines=Projects"
+            alt="Projects" />
+    </picture>
+</h3>
+
+I am part of the <a href="https://github.com/DevLink-dev" target="_blank" rel="noreferrer nofollow">DevLink</a> organization, creating a platform for developers worldwide to share project ideas and collaborate on them.
+
+Feel free to also check out my <a href="https://gist.github.com/tom-weelborg">gists</a>.
